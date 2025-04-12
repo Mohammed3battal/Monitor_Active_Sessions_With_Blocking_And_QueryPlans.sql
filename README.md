@@ -1,0 +1,1 @@
+# Monitor_Active_Sessions_With_Blocking_And_QueryPlans.sql
